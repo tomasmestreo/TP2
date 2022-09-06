@@ -1,0 +1,24 @@
+---
+title: "Recorridos ecobici"
+author: "Tomasmestreo"
+date: "2022-08-06"
+output: html_document
+---
+```{r}
+library(tidyverse)
+```
+```{r}
+library(sf)
+```
+```{r}
+library(readr)
+```
+
+```{r}
+Datos2021 = read.csv("C:\Users\Usuario Abierto\Desktop\trips_2021")
+```
+
+ 
+
+ 
+ 
