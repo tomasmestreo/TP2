@@ -15,6 +15,28 @@ library(readr)
 ```
 
 ```{r}
+install.packages("devtools")
+```
+
+```{r}
+install.packages("ggmap")
+```
+
+```{r}
+install.packages("leaflet")
+```
+
+```{r}
+library(ggmap)
+```
+```{r}
+library(leaflet)
+```
+
+
+
+
+```{r}
 Datos2021 = read.csv("C:\Users\Usuario Abierto\Desktop\trips_2021")
 ```
 
